@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_symbolist_nature_civilization",
+  "title": "The Verb of Dying Things",
+  "tagline": "A poet flees the city's grid to join a mystic and a naturalist in a decaying house, where the land itself is dreaming a new language.",
+  "target_words": 70000,
+  "actual_words": 66296,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Language of Wildness vs. The Grammar of Civilization",
+    "Animism and the Consciousness of Place",
+    "Decay as an Active, Creative Process",
+    "The Beat Search for Authenticity in a Non-Human World"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The River That Flows Both Ways",
+      "words": 2762
+    },
+    {
+      "ch": 2,
+      "title": "The Dying Beech",
+      "words": 2762
+    },
+    {
+      "ch": 3,
+      "title": "The Dream of the Land",
+      "words": 2762
+    },
+    {
+      "ch": 4,
+      "title": "Walking the Bounds",
+      "words": 2762
+    },
+    {
+      "ch": 5,
+      "title": "What Calls Back",
+      "words": 2762
+    },
+    {
+      "ch": 6,
+      "title": "The City's Ghost in the Posture",
+      "words": 2762
+    },
+    {
+      "ch": 7,
+      "title": "The Architecture of Fire",
+      "words": 2762
+    },
+    {
+      "ch": 8,
+      "title": "Silt and Bone",
+      "words": 2762
+    },
+    {
+      "ch": 9,
+      "title": "The Ridge's Whisper",
+      "words": 2762
+    },
+    {
+      "ch": 10,
+      "title": "Arden's Knife, Mira's Hands",
+      "words": 2762
+    },
+    {
+      "ch": 11,
+      "title": "The Rot as Verb",
+      "words": 2762
+    },
+    {
+      "ch": 12,
+      "title": "A Different Rhythm",
+      "words": 2762
+    },
+    {
+      "ch": 13,
+      "title": "The Old Claim",
+      "words": 2762
+    },
+    {
+      "ch": 14,
+      "title": "Ghosts in the Soil",
+      "words": 2762
+    },
+    {
+      "ch": 15,
+      "title": "The Crystal Cluster Behind",
+      "words": 2762
+    },
+    {
+      "ch": 16,
+      "title": "Writing With, Not About",
+      "words": 2762
+    },
+    {
+      "ch": 17,
+      "title": "The House's Respiration",
+      "words": 2762
+    },
+    {
+      "ch": 18,
+      "title": "A Finished Sentence",
+      "words": 2762
+    },
+    {
+      "ch": 19,
+      "title": "The Basalt Beast",
+      "words": 2762
+    },
+    {
+      "ch": 20,
+      "title": "Ink and Earth",
+      "words": 2762
+    },
+    {
+      "ch": 21,
+      "title": "The Coordinate",
+      "words": 2762
+    },
+    {
+      "ch": 22,
+      "title": "The Silence You Can Listen To",
+      "words": 2762
+    },
+    {
+      "ch": 23,
+      "title": "The Field Gone to Meadow",
+      "words": 2762
+    },
+    {
+      "ch": 24,
+      "title": "The Curves Find You",
+      "words": 2762
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Leo attempts to transcribe the 'language' of a specific natural feature (a stream, a rockface, a storm) into a poem, failing until he changes his method.",
+      "Create a journal entry from Mira's perspective, detailing her ritualistic observation of the copper beech's final days.",
+      "Write a dialogue where Arden explains the concept of 'ghosts in the soil'—not as spirits, but as historical traumas and joys imprinted on the land.",
+      "Draft a letter Leo writes back to someone in the city, trying and failing to explain what he is learning, the prose itself straining against urban logic."
+    ],
+    "technical": [
+      "Build a 'Land-Dream Generator' that uses location data (topography, flora, weather history) to create symbolic, prose-poem descriptions of a place's consciousness.",
+      "Create a visual/textual piece contrasting 'The City as a Finished Sentence' (using grids, typography, stark geometry) with 'The Wilderness as a Verb' (using fluid, organic, process-based visuals)."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gary Snyder (deep ecology & poetics)",
+      "Ursula K. Le Guin (descriptive anthropology of the unseen)",
+      "Jack Kerouac (spontaneous prose & restless seeking)",
+      "Arthur Rimbaud (systematic derangement of the senses & symbolic vision)"
+    ]
+  },
+  "cover_prompt": "A lone poet, his back to the viewer, walks away from a faint, geometric city grid etched in distant fog, towards a sprawling, decaying Victorian house where vines and wildflowers burst from the roof and windows, [Detailed Scene & Context: The house is a living entity; one wall is peeled back like bark to reveal glowing, pulsing root systems and crystalline fungi growing on the interior wallpaper, while a woman shaped from river clay and a man with a crown of antlers and pressed leaves observe from the overgrown porch], [Artistic Style & Medium: in the intricate, symbolic, and nature-infused style of Alfred Kubin and Arthur Rackham, rendered as a detailed pen and ink drawing with muted watercolor washes], [Composition & Camera: book cover framing, a centered and slightly low-angle composition that emphasizes the towering, dreaming house against a vast, swirling sky filled with cloud-forms that resemble archaic alphabets], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single shaft of amber sunset light piercing the gloom, color palette of decaying greens, earthy umbers, bruised violets, and flashes of bioluminescent gold], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
